@@ -1,0 +1,23 @@
+.navbar-dark .navbar-brand {
+    color: white;
+}
+
+.jumbotron{
+  background-image: url(canucksteam.jpeg);
+  background-size: cover;
+}
+
+.jumbotron img {
+height: 300px;
+
+}
+
+.jumbotron h1 {
+  color: black;
+  font-size: 200px;
+font-family: 'risque',cursive;
+}
+
+th td{
+text-align: center;
+}
